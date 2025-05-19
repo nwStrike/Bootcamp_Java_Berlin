@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "402fd7e92a30e15c",
+    "type": "split",
+    "children": [
+      {
+        "id": "debaef8d3a4158c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c2e8f50aeda1fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dce6c08710a128f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b75b42dc28369b53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e166f94f3515a242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "89d375eb6600c74b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d13a23d26c1f321e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0270b280d599a6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f8992c1625e3619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc690e44321601b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "8d78a52a88e8418c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "daeef78c86ce5945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c514e4558195c477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f6c2e8f50aeda1fc",
+  "lastOpenFiles": [
+    "Curso/Bienvenido.md",
+    "Curso/Apuntes.md",
+    "Curso/Docu/Notas HTML.md",
+    "Curso/Enlaces.md",
+    "Curso/TestREPO",
+    "Curso/Nueva carpeta",
+    "Curso/Curso HTML/img/img1.jpeg",
+    "Curso/Curso HTML/img",
+    "Curso/Curso HTML/ejer1.html",
+    "Curso/Curso HTML/ejer2.html",
+    "Curso/Curso HTML/clase0.html",
+    "Curso/Curso HTML",
+    "Curso/HTML/img/img1.jpeg",
+    "Curso/HTML/img",
+    "Curso/HTML/img1.jpeg",
+    "Curso/HTML/img1.jpeg.crdownload",
+    "Curso/HTML/ejer2.html",
+    "Apuntes.md"
+  ]
+}
