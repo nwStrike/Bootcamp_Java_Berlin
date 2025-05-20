@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Bienvenido.md",
+                "file": "Curso/Docu/Notas CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Notas CSS"
             }
           }
         ]
@@ -167,28 +167,34 @@
   },
   "active": "f6c2e8f50aeda1fc",
   "lastOpenFiles": [
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src/leon/leon.webm",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src/leon/leon.mp4",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src/leon/leon.jpg",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src/leon",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src/leon.zip",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/src",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/Nueva carpeta",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos/ejer3.html",
-    "Curso/Curso HTML/Ejercicios/Ejer3 videos",
-    "Curso/Curso HTML/Ejercicios/Nueva carpeta",
-    "Curso/Curso HTML/Ejercicios/ejer3.html",
-    "Curso/Enlaces.md",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer3 MarginCollapse/index.html",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer3 MarginCollapse/teatro.jpg",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer3 MarginCollapse/teatro.jpg.crdownload",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer3 MarginCollapse",
+    "Curso/Curso HTML/Ejercicios/CSS/Nueva carpeta",
     "Curso/Bienvenido.md",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer2 iframes/index.html",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer2 iframes",
+    "Curso/Docu/Notas CSS.md",
+    "Curso/Enlaces.md",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer1/index.html",
+    "Curso/Curso HTML/Ejercicios/CSS/Ejer1",
+    "Curso/Curso HTML/Ejercicios/CSS",
+    "Curso/Curso HTML/Ejercicios/Ejer11/Ejer11.html",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor6_c1.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor5_c5.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor4_c5.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor4_c2.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor3_c5.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor3_c4.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor3_c3.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor3_c2.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso/picassor2_c6.jpg",
+    "Curso/Curso HTML/Ejercicios/Ejer11/imgpicasso",
     "Curso/Docu/Notas GIT.md",
     "Curso/Docu/Notas HTML.md",
     "Recuerdos Clase.md",
-    "Curso/Curso HTML/Ejercicios/img/img1.jpeg",
-    "Curso/Curso HTML/Ejercicios/img",
     "Curso/Apuntes.md",
-    "Curso/Curso HTML/img/img1.jpeg",
-    "Curso/HTML/img/img1.jpeg",
-    "Curso/HTML/img1.jpeg",
     "Apuntes.md"
   ]
 }
