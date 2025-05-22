@@ -1,0 +1,86 @@
+body {
+    background-color: #2b7137;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #fff;
+    text-align: left;
+}
+
+p {
+    font-size: 0.5rem;
+    text-align: center;
+}
+
+
+
+p.test1 {
+    width: 50%;
+    margin: auto;
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: groove;
+}
+
+p.test2 {
+    width: 50%;
+    margin-right: auto;
+    background-color: lightblue;
+    color: black;
+    font-size: 20px;
+    border: 5px solid rebeccapurple;
+    border-style: dashed;
+}
+
+p.test3 {
+    margin-left: auto;
+    width: 50%;
+    background-color: lightgreen;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: inset;
+}
+
+p.test4 {
+    margin: auto;
+    width: 50%;
+    background-color: lightpink;
+    color: black;
+    font-size: 20px;
+    border: 5px solid #1bae38;
+    border-style: double;
+}
+
+p.test5 {
+    margin-right: auto;
+    width: 50%;
+    background-color: lightyellow;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: dotted;
+}
+
+p.test6 {
+    width: 50%;
+    margin-left: auto;
+    background-color: lightgray;
+    color: black;
+    font-size: 20px;
+    border: 5px solid rgb(57, 104, 11);
+    border-style: outset;
+}
+
+p.test7 {
+    width: 50%;
+    margin: auto;
+    background-color: lightgray;
+    color: black;
+    font-size: 20px;
+    border: 5px solid rgb(57, 104, 11);
+    border-style: outset;
+}

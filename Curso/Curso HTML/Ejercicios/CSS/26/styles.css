@@ -1,0 +1,58 @@
+body {
+    background-color: darksalmon;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p.test1 {
+
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: groove;
+}
+
+p.test2 {
+    background-color: lightblue;
+    color: black;
+    font-size: 20px;
+    border: 5px solid rebeccapurple;
+    border-style: dashed;
+}
+
+p.test3 {
+    background-color: lightgreen;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: inset;
+}
+
+p.test4 {
+    background-color: lightpink;
+    color: black;
+    font-size: 20px;
+    border: 5px solid #1bae38;
+    border-style: double;
+}
+
+p.test5 {
+    background-color: lightyellow;
+    color: black;
+    font-size: 20px;
+    border: 5px solid black;
+    border-style: dotted;
+}
+
+p.test6 {
+    background-color: lightgray;
+    color: black;
+    font-size: 20px;
+    border: 5px solid rgb(57, 104, 11);
+    border-style: outset;
+}
